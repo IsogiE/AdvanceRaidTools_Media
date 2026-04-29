@@ -7,5 +7,7 @@
 ## OptionalDeps: AdvanceRaidTools_Libraries, LibSharedMedia-3.0
 ## DefaultState: enabled
 ## Category: Advance
+## X-Wago-ID: 5NR8REK3
+## X-Curse-Project-ID: 1528731
 
 Dreams.lua
