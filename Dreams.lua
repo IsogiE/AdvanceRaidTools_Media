@@ -26,6 +26,7 @@ local DREAMS = {
     { "sep", "sep.png", 455, 449 },
     { "lazelr2", "lazelr2.png", 512, 347 },
     { "ronkas", "ronkas.png", 430, 347 },
+    { "yaya", "yaya.png", 430, 347 },
 }
 
 ART_Media = ART_Media or {}
