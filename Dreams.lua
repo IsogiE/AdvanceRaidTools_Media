@@ -15,7 +15,6 @@ local DREAMS = {
     { "vikrally", "vikrally.png", 540, 435 },
     { "soul", "soul.png", 453, 435 },
     { "shu", "shu.png", 540, 305 },
-    { "whytho", "whytho.png", 360, 287 },
     { "lazelloot", "lazelloot.png", 358, 249 },
     { "andy", "andy.png", 540, 380 },
     { "newpatch", "newpatch.png", 540, 360 },
