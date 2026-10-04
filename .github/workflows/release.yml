@@ -2,15 +2,12 @@ name: Package addon
 
 on:
   push:
-    branches:
-      - main
     tags:
-      - '*'
-    paths-ignore:
-      - '.github/**'
+      - '**'
 
 jobs:
   build:
+    if: ${{ !contains(github.ref_name, 'alpha') && !contains(github.ref_name, 'beta') }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
